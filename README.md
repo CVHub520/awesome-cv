@@ -30,8 +30,6 @@
 -->
 
 
-## Index
-
 <img align="right" src="res/ui/L0CV.png" width=63% alt="L0CV architecture" title="L0CV architecture">
 
 - [🌈 愿景]
@@ -122,7 +120,6 @@
     </tbody>
 </table>
 
-[Index](#-以用促学先会后懂-)
 
 ## 🔑 如何食用
 
@@ -263,7 +260,6 @@ import L0CV
     </tbody>
 </table>
 
-[Index](#-以用促学先会后懂-)
 
 ## ❓ 常见问题
 
@@ -282,12 +278,11 @@ import L0CV
 
 - **Jupyter Notebook 无法在 GitHub 上呈现？** [使用 nbviewer](https://leaherb.com/notebook_wont_render_use_nbviewer/)。 <a href="https://mybinder.org/v2/gh/Charmve/computer-vision-in-action/main/notebooks/"><img src="https://mybinder.org/badge_logo.svg" alt="Binder"></a>
 
-[Index](#-以用促学先会后懂-)
 
 
 ## 关注我们
 <div align=center>
-<p>扫描下方二维码，然后回复关键词“<b>计算机视觉实战教程</b>”，即可加入“读者交流群”</p>
+<p>扫描下方二维码，然后回复关键词“<b>技术交流</b>”，即可加入“读者交流群”</p>
 <img src="https://user-images.githubusercontent.com/29084184/116501908-a63da600-a8e4-11eb-827c-7772655e0079.png" width = "250" height = "270" alt="迈微AI研习社是一个专注AI领域的开源组织，作者系CSDN博客专家，主要分享机器学习算法、计算机视觉等相关内容，每周研读顶会论文，持续关注前沿技术动态。底部有菜单分类，关注我们，一起学习成长。">
 </div>
 
@@ -297,5 +292,4 @@ import L0CV
 
 - <em>请尽管表达你们的意见和建议，GitHub issues 和 电子书下方都可以留言，也可写邮件给我，我一定会回！</em>
 
-[Index](#-以用促学先会后懂-)
 -->
