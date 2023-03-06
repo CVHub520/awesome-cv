@@ -36,7 +36,7 @@
 
 - [🌈 愿景]
 - [💠 热门论文汇总与解读]
-- [📘 快速入门教程]
+- [📘 项目实战]
 - [🔑 如何食用]
 - [❓ 常见问题]
 - [📄 LICENSE]
@@ -65,9 +65,9 @@
   <a href="https://github.com/Charmve/computer-vision-in-action"><img src="/res/ui/workswith1.png" title="Works with L0CV" width="120"></a>
 </p>
 
-| 实战项目 | 章节 | Binder | Google Colab | 
+| 领域 | 性能 | 解读 | 源码 | 
 | :-- | :---| :---:| :---: |
-| [实战项目 1 - 手写字分类](https://blog.csdn.net/Charmve/article/details/108531735) | 第 1 章 - 神经网络 | | |
+| [实战项目 1 - 手写字分类] | 第 1 章 - 神经网络 | | |
 | ...  | ... | ... |
 
 <br>
