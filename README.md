@@ -282,14 +282,14 @@ import L0CV
 
 ## 关注我们
 <div align=center>
-<p>扫描下方二维码，然后回复关键词“<b>技术交流</b>”，即可加入“读者交流群”</p>
-<img src="https://github.com/CVHuber/awesome-cv/blob/main/640.jfif" width = "250" height = "270" alt="迈微AI研习社是一个专注AI领域的开源组织，作者系CSDN博客专家，主要分享机器学习算法、计算机视觉等相关内容，每周研读顶会论文，持续关注前沿技术动态。底部有菜单分类，关注我们，一起学习成长。">
+<p>扫描下方二维码，然后回复关键词“<b>进群</b>”，即可加入“读者交流群”</p>
+<img src="https://github.com/CVHuber/awesome-cv/blob/main/640.jfif" width = "250" height = "270" alt="欢迎大家关注我们的公众号CVHub，每日都给大家带来原创、多领域、有深度的前沿AI论文解读与工业成熟解决方案！">
 </div>
 
-- 若本书里没有你想要理论和实战项目，或者你发现本书哪个地方有错误，请毫不犹豫地去本仓库的 Issues（ 地址 https://github.com/charmve/computer-vision-in-action/issues ）进行反馈，在对应版块提交你希望补充的内容或者勘误信息，作者通常会在 24 小时以内给您回复，超过 24 小时未回复的话可以邮件联系我（微信 MaiweiE_com）；
+- 若本书里没有你想要理论和实战项目，或者你发现本书哪个地方有错误，请毫不犹豫地去本仓库的 Issues（ 地址 https://github.com/CVHuber/awesome-cv/issues ）进行反馈，在对应版块提交你希望补充的内容或者勘误信息，作者通常会在 24 小时以内给您回复，超过 24 小时未回复的话可以邮件联系我（微信 XXX）；
 
-- 同时，我也欢迎大家加入本项目的建设中来，欢迎 [pull request](https://github.com/charmve/computer-vision-in-action/pulls)！
+- 同时，我也欢迎大家加入本项目的建设中来，欢迎 [pull request](https://github.com/charmve/CVHuber/awesome-cv/pulls)！
 
-- <em>请尽管表达你们的意见和建议，GitHub issues 和 电子书下方都可以留言，也可写邮件给我，我一定会回！</em>
+- <em>请尽管表达你们的意见和建议，GitHub issues 和 微信都可以留言，我一定会回！</em>
 
 -->
