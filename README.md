@@ -1,115 +1,33 @@
 <p align="right">
 <a href="https://github.com/CVHuber/awesome-cv">
-    <img src="https://badges.strrl.dev/visits/Charmve/computer-vision-in-action?color=black&logo=github">
-	<!---- comesfrom https://techsini.com/multi-mockup/index.php --->
+    <img src="图片?color=black&logo=github">
+	<!---- comesfrom 网站 --->
 </a>
 </p>
 
-<!-- maiweilab
+<!-- CVHub
 <div id="outputFigDisplay" class="fig">
     <pre id="taag_output_text" style="left;" class="flag" contenteditable="true">
     <code>
-    __  ___      _               _ ___    ____                             
-   /  |/  /___ _(_)      _____  (_)   |  /  _/    _________  ____ ___      
-  / /|_/ / __ `/ / | /| / / _ \/ / /| |  / /_____/ ___/ __ \/ __ `__ \     
- / /  / / /_/ / /| |/ |/ /  __/ / ___ |_/ /_____/ /__/ /_/ / / / / / /     
-/_/  /_/\__,_/_/ |__/|__/\___/_/_/  |_/___/     \___/\____/_/ /_/ /_/      
+   _______    ____  __      __  
+  / ____/ |  / / / / /_  __/ /_ 
+ / /    | | / / /_/ / / / / __ \
+/ /___  | |/ / __  / /_/ / /_/ /
+\____/  |___/_/ /_/\__,_/_.___/ 
+                                      
     </code>
     </pre>
 </div>
 
-## Maiwei AI Lab - <ins>迈微AI研习社</ins><sup><a href="https://mp.weixin.qq.com/s/jr6h1lXxWsQLF8GZnek7Fg">[?]</a></sup>
+## CVHub AI Lab - <ins>CVHub</ins><sup><a href="公众号文章介绍">[?]</a></sup>
 
-<a href="https://www.github.com/Charmve" target="_blank"><img src="https://img.shields.io/badge/创始人-@Charmve-000000.svg?style=flat-square&logo=GitHub"></a>
-<a href="https://github.com/Charmve/computer-vision-in-action#关注我们" target="_blank"><img src="https://img.shields.io/badge/公众号-@迈微AI研习社-000000.svg?style=flat-square&logo=wechat"></a>
+<a href="https://www.github.com/CVHuber" target="_blank"><img src="图片"></a>
+<a href="website#关注我们" target="_blank"><img src="图片"></a>
 
-作者系迈微AI研习社创始人、CSDN博客专家，主要分享机器学习算法、计算机视觉等相关内容，每周研读顶会论文，持续关注前沿技术动态。公众号底部有菜单分类，关注我们，一起学习成长。
+门头沟学院AI视觉实验室御用公众号 | 学术 | 科研 | 就业
  
 ---
 -->
-
-<!--
-<table>
-<tr>
-	<td>
-	## ✨ News! ✨
-
-	- <b>2020.07.12:</b> 📝  进阶篇 更新Transformer、强化学习、迁移学习、视频理解 !
-	- <b>2021.06.20:</b> 📘  在线电子书发布  ! <a href="https://charmve.github.io/computer-vision-in-action/" target="_blank"><img src="https://img.shields.io/badge/在线阅读-简体中文-000000.svg?style=flat-square&amp;logo=GitBook" alt="中文电子书"></a>
-	- <b>2020.06.10:</b> 💻  L0CV 项目主页发布 ！ <a href="https://charmve.github.io/L0CV-web/" target="_blank"><img src="https://img.shields.io/badge/项目主页-L0CV-000000.svg?style=flat-square&amp;logo=GitBook" alt="L0CV Website"></a>
-
-	更多更新日志会同步到 [CHANGELOG](CHANGELOG.md)，持续更新中，感谢大家的支持与喜欢！
-	</td>
-</tr>
-</table>
--->
-
-> "如果你只是看了这个项目的在线文档，那么你并没有利用好这个项目。太可惜！"
-
-<a href="https://charmve.github.io/computer-vision-in-action">
-    <img src="./res/ui/mutil-platform.png" width=="">
-</a>
-
-## ✨ 以用促学，先会后懂 ✨
-### L0CV <sup><a href="https://charmve.github.io/L0CV-web/">`🔊`</a></sup> &nbsp; 一种结合了代码、图示和HTML的在线学习媒介
-<br>
-
-<table align="center">
-<tr>
-<td>
-<code>全面</code>&nbsp;<code>前沿</code>&nbsp;<code>免费</code>
-<h1> 计算机视觉实战演练：算法与应用 <sup> 📌</sup>
-<br><em>Computer Vision in Action</em></h1>
-
-[作者：张伟（Charmve）](https://github.com/Charmve)
-
-<p align="center">
-	<a href="https://circleci.com/gh/Charmve/computer-vision-in-action"><img src="https://circleci.com/gh/Charmve/computer-vision-in-action.svg?style=svg" alt="CircleCI" title="CircleCI"></a>
-	<a href="https://charmve.github.io/computer-vision-in-action"><img src="https://readthedocs.org/projects/pyod/badge/?version=latest" alt="Documentation status"></a>
-	<a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank" style="display:inline-block"><img src="https://img.shields.io/badge/license-Apache%202.0-red?logo=apache" alt="Code License"></a>
-  <a rel="DocLicense" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/docs%20license-CC%20BY--NC--SA%204.0-green?logo=creativecommons" title="CC BY--NC--SA 4.0"/></a>
-	<br><a href="https://github.com/Charmve/computer-vision-in-action/tree/main/code/"><img src="https://img.shields.io/badge/Python-v3.8.10-000000.svg?logo=Python&color=brightgreen" alt="Python version"></a>
-  <a href="https://github.com/Charmve/computer-vision-in-action/tree/main/notebooks/"><img src="https://img.shields.io/badge/Jupyter-v4.7.1-000000.svg?logo=jupyter&color=orange" alt="jupyter version"></a>
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-v1.9.0-000000.svg?logo=PyTorch&color=lightred" alt="PyTorch version"></a>
-	<br><a href="https://mybinder.org/v2/gh/Charmve/computer-vision-in-action/main/notebooks/"><img src="https://mybinder.org/badge_logo.svg" alt="Binder"></a>
-	<a href="https://github.com/Charmve/computer-vision-in-action/tree/main/code/"><img src="https://img.shields.io/badge/Run%20on-Colab-000000.svg?logo=googlecolab&color=yellow" alt="Run on Colab"></a>
-	<a href="https://github.com/Charmve/computer-vision-in-action/tree/main/docker"><img src="https://img.shields.io/badge/Docker%20Hub-v1.0.1-000000.svg?logo=Docker&color=blue" alt="Docker"></a>
-  <a href="https://gitpod.io/#https://github.com/Charmve/computer-vision-in-action"><img src="https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod" alt="Gitpod Ready-to-Code"></a>
-  <a href="https://github.com/Charmve/computer-vision-in-action/edit/master/README.md"><img src="https://img.shields.io/github/stars/Charmve/computer-vision-in-action?style=social" alt="Stars"></a>
-  <a href="https://github.com/Charmve/computer-vision-in-action/edit/master/README.md"><img src="https://img.shields.io/github/forks/Charmve/computer-vision-in-action?style=social" alt="Forks"></a>
-</p>
-
-<div align="center">
-	<img src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/maiwei.png" width="200px" alt="logo:L0CV" title="有疑问，跑起来就会变成一朵花 ❀">
-</div>
-
-<br><br>
-<a href="https://charmve.github.io/L0CV-web/" target="_blank"><img src="https://img.shields.io/badge/项目主页-L0CV-000000.svg?logo=GitHub" alt="L0CV Website"></a>
-<a href="https://charmve.github.io/computer-vision-in-action/" target="_blank"><img src="https://img.shields.io/badge/在线阅读-简体中文-000000.svg?logo=GitBook" alt="中文电子书"></a>
-
-跨平台，只需一个浏览器即可！
-<br>
-> <h4>👉  在线阅读（优先更新实战篇和进阶篇）</h4>
-> - 地址：https://charmve.github.io/computer-vision-in-action/
-
-> <h4>最新版PDF下载</h4>
-> - 地址：https://github.com/charmve/computer-vision-in-action/releases <b>(马上来 ...)</b>
-
-</tr>
-</td>
-</table>
-
-<div align="right">
-
-<details><summary>分享 <code><a target="_blank" href="https://user-images.githubusercontent.com/29084184/126729326-cad7a288-e424-4f69-a47a-90f61e7d9879.png"><img height="20" src="https://user-images.githubusercontent.com/29084184/126728953-c1e0ad62-3a24-47fa-b461-e6584885b294.png" alt="Scan QR" title="Scan QR"></a></code> 到 </summary><img src="./res/ui/L0CV-GitHub-qr.png" width=20% alt="L0CV QR" title="L0CV QR"></details>
-<code><a href="http://qq.com/intent/qq?text=https://github.com/Charmve/computer-vision-in-action"><img height="20" src="https://user-images.githubusercontent.com/29084184/126457763-5f826c4f-83c6-4b03-85e9-248787171a80.png" alt="QQ" title="QQ"></a></code>
-<code><a href="http://mp.weixin.qq.com/intent/wechat?text=https://github.com/Charmve/computer-vision-in-action"><img height="20" src="https://user-images.githubusercontent.com/29084184/126457951-90f94403-b071-4476-bc75-4c3d66f984ce.png" alt="WeChat" title="WeChat"></a></code>
-<code><a href="http://weibo.com/intent/weibo?text=https://github.com/Charmve/computer-vision-in-action"><img height="20" src="https://user-images.githubusercontent.com/29084184/126458756-84e58b3d-924a-4105-bcf5-072fe7fc3b12.png" alt="Weibo" title="Weibo"></a></code>
-<code><a href="http://twitter.com/intent/tweet?text=https://github.com/Charmve/computer-vision-in-action"><img height="20" src="https://user-images.githubusercontent.com/29084184/126458017-8c629fcb-ff69-4a9a-ba0a-e47d17d3f9b4.png" alt="Twitter" title="Twitter"></a></code>
-<code><a href="https://www.zhihu.com/"><img height="23" src="https://user-images.githubusercontent.com/29084184/128186720-4018601a-edff-423c-94a4-06738604d0c5.png" alt="Zhihu" title="Zhihu"></a></code>
-<code><a href="https://blink.csdn.net/"><img height="20" src="https://user-images.githubusercontent.com/29084184/128187038-ddd65949-5293-4b29-b609-f3bcbb54e953.png" alt="CSDN" title="CSDN"></a></code>
-
-</div>
 
 ## Index
 
